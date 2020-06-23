@@ -8,5 +8,6 @@ public class Test {
     public void Test(){
         int i = 100;
         System.out.println(i);
+        System.out.println(123);
     }
 }
