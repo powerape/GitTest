@@ -4,4 +4,9 @@ public class Test {
         System.out.println("123");
         System.out.println("Hello World");
     }
+
+    public void Test(){
+        int i = 100;
+        System.out.println(i);
+    }
 }
